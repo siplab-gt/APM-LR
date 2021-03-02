@@ -1,5 +1,5 @@
 # Approximate Posterior Matching for Logistic Regression (APM-LR)
-This code accompanies the paper "Feedback Coding for Active Learning" by Greg Canal, Matthieu Bloch, and Chris Rozell (AISTATS 2021).
+This code accompanies the paper "[Feedback Coding for Active Learning](https://arxiv.org/abs/2103.00654)" by Greg Canal, Matthieu Bloch, and Chris Rozell (AISTATS 2021).
 
 Please send correspondence to Greg Canal (gregory.canal@gatech.edu).
 
